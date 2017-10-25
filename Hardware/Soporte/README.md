@@ -13,7 +13,7 @@ El listado de piezas adjuntas es el siguiente:
 
 Respecto al montaje y adaptación de los servos, podría aplicarse la misma mecánica que en los brazos robóticos en los 2 gdl de la base tal que:
 
-[![](image4.jpg)]
+[![Paso1](image4.jpg)]
 
 Figura 1. Paso 1
 
