@@ -1,4 +1,6 @@
-﻿Asroboturret
-===
-[![Asroboturret design](asroboturret.jpg)]
+# Asroboturret
+
+![Asroboturret design](asroboturret.jpg)
+
+Figura 1. Boceto
 
